@@ -2,7 +2,8 @@
 
 import React, { useState } from "react";
 import ProjectCard from "./ProjectCard";
-import ProjectTag from "./ProjectTag";
+import ProjectTag from './ProjectTag';
+
 
 const ProjectSection = () => {
   const projectsData = [
